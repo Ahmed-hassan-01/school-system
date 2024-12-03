@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1724964705 source:h:\embeded_m.abdelbaset\project_shcool\function_shcool.c
+	<stdio.h>
+	<stdlib.h>
+	"cmd_handler.h"
+	"file.h"
+	"read_write.h"
+
+1724964891 source:h:\embeded_m.abdelbaset\project_shcool\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file.h"
+	"read_write.h"
+
+1724828467 h:\embeded_m.abdelbaset\project_shcool\file.h
+
+1724015619 source:h:\embeded_m.abdelbaset\project_shcool\variable.c
+
+1724015555 h:\embeded_m.abdelbaset\project_shcool\variable.c
+
+1724963443 source:h:\embeded_m.abdelbaset\project_shcool\read_write.c
+	<stdio.h>
+	<stdlib.h>
+	"file.h"
+	"read_write.h"
+
+1724908951 h:\embeded_m.abdelbaset\project_shcool\read_write.h
+
+1724826683 source:h:\embeded_m.abdelbaset\project_shcool\cmd_handler.c
+	"cmd_Handler.h"
+
+1724826971 h:\embeded_m.abdelbaset\project_shcool\cmd_handler.h
+	"std_Utility.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1724827332 h:\embeded_m.abdelbaset\project_shcool\std_utility.h
+	"std_Types.h"
+
+1724827126 h:\embeded_m.abdelbaset\project_shcool\std_types.h
+

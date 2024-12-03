@@ -1,0 +1,4 @@
+student[0] mo'men 26 10 ë
+student[1] hassan 30 11 ï
+student[2] abd 40 12 ó
+student[3] elwww 50 13 ÷
